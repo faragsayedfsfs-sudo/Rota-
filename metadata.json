@@ -1,0 +1,6 @@
+{
+  "name": "TCA Rota Creator",
+  "description": "Professional staff shift rota generator with 30-minute interval grid, AI Smart Suggest duty recommendations, staff metadata tags, customizable color coding, and real-time synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
